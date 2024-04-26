@@ -2,9 +2,7 @@
 
 ## Sobre mim
 Olá, sou Jorge, tenho 18 anos e sou estudante de Análise e Desenvolvimento de Sistemas no IFSP. Sou apaixonado por filmes, especialmente os de ficção e fantasia, e também sou um grande fã de quadrinhos. Desde que aprendi a programar em C, nunca mais parei, e agora estou focado em expandir meu conhecimento em diversas áreas da computação. Tenho um interesse profundo em entender como as coisas funcionam, tanto no mundo digital quanto no analógico.🔍
-
-## Experiência
-- **Experiência:** Trabalhei com Java e Spring Boot durante um estágio e atualmente sou monitor de Programação Orientada a Objetos (POO) e Estrutura de Dados na minha faculdade. 💻📚
+Trabalhei com Java e Spring Boot durante um estágio e atualmente sou monitor de Programação Orientada a Objetos (POO) e Estrutura de Dados na minha faculdade. 💻📚
 
 ## O que você encontrará aqui
 Neste perfil do GitHub, você encontrará uma variedade de projetos, incluindo:
