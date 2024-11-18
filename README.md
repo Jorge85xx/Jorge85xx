@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hello There!
 ## About Me  
 Hi, I'm Gabriel, a 19-year-old computer science student at IFSP. Currently, I work as an intern at a startup focused on **distributed systems and scalability**. I'm passionate about movies, especially science fiction and fantasy, and a big fan of comic books. Ever since I started programming, it's been impossible to imagine not doing this forever—I’ve never stopped! I’m always looking to expand my knowledge in various areas of computing and understand how everything works, whether in the digital or analog world. 🔍  
 
